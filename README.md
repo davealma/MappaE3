@@ -4,7 +4,6 @@ Create an .env
 ```
 API_KEY=<KEY>
 API_URL="https://makers-challenge.altscore.ai"
-API_HOLOCRON_CHARACTERS="https://swapi.dev/api/people"
 ```
 
-run `go run main.go` to calculate the avg
+run `go run .` to know the balance force
